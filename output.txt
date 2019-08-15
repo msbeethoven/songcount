@@ -1,0 +1,13 @@
+Top 5 Artists with most Lyrics Sections: 
+ Lin-Manuel Miranda: 53
+Noisey: 51
+Epic Rap Battles of History: 43
+JAY-Z: 36
+Nas: 26 
+
+ Top 5 Artist with section counts: 
+ Drake: 387
+Kanye West: 376
+Lil Wayne: 359
+Eminem: 349
+Travis Scott: 324
