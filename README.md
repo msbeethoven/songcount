@@ -2,9 +2,9 @@
 
 ## Features
 
--Please `npm install` to get all dependencies! 
--`nodemon server.js` to start the server
--Then Q1 and Q2 to be written to the output.txt 
+- Please `npm install` to get all dependencies! 
+- Then`nodemon server.js` to start the server
+- Then Q1 and Q2 to be written to the output.txt 
 
 
 ## Technologies
