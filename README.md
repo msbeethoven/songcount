@@ -12,3 +12,5 @@
 - NodeJS 
 - MongoDB 
 
+## Note 
+- `song.ndjson` is in there with 20 songs for quick testing to make sure basic functionality was working at first. However, I've set it so that the original 2k `songs.ndjson` is being streamed in, so no need to change anything. 
